@@ -12,15 +12,14 @@ You can click the Preview link to take a look at your changes.
 --->
 テスト
 テキスト
-なにこれ
 
-Readmeだよ
+Readme
 
 
-### 太字とかにしたい
+### is this bold?
 
-## あああ
+## is this h2?
 
 --- 
 --
-マークダウンにならん
+Is this markdown ??
